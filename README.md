@@ -8,7 +8,7 @@ Notebooks usandos na disciplina de Lógica Fuzzy
 
 * [AULA 2.1 - Composição Fuzzy](https://nbviewer.jupyter.org/github/arnaldoljr/Disciplina-Fuzzy-Logic---UFC/blob/master/Aula%202.1%20%20-%20%20Composi%C3%A7%C3%A3o%20Fuzzy.ipynb)
 
-* [AULA 2.2 - Composição fuzzy - aula exercicios scikit - cap 4 livro texto](https://nbviewer.jupyter.org/github/arnaldoljr/Disciplina-Fuzzy-Logic---UFC/blob/master/Aula%202.2%20-%20%20Composicao%20fuzzy%20aula%20exercicios%20scikit%20%20-%20cap%204.ipynb)
+* [AULA 2.2 - Composição fuzzy - aula exercícios scikit - cap 4 livro texto](https://nbviewer.jupyter.org/github/arnaldoljr/Disciplina-Fuzzy-Logic---UFC/blob/master/Aula%202.2%20-%20%20Composicao%20fuzzy%20aula%20exercicios%20scikit%20%20-%20cap%204.ipynb)
 
 * [AULA 3 - Fuzzyficação e Defuzzyficação](https://nbviewer.jupyter.org/github/arnaldoljr/Disciplina-Fuzzy-Logic---UFC/blob/master/Aula%203%20-%20Fuzzyfica%C3%A7%C3%A3o%20e%20Defuzzyfica%C3%A7%C3%A3o.ipynb)
 
